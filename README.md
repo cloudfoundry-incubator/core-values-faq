@@ -1,4 +1,4 @@
-### FAQ
+# FAQ
 Working in an environment like Cloud Foundry with agile development, pair programming, testing, and more, you may find yourself asking many questions about what the Cloud Foundry ideals are, and why they are. There are many answers to these questions, and every developer has their own answers. The following are some questions you may be asking, and should be able to answer by the end of your dojo program. If you don't feel ready to answer these questions, your pair is a great resource to hear their thoughts and gain their perspectives. You may even wish to pose the same question to multiple pairs to see how different people think differently about these core ideals.
 
 Keep in mind, we have intentionally omitted the answers to these questions.
