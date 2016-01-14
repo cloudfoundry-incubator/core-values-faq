@@ -28,7 +28,7 @@ Keep in mind, we have intentionally omitted the answers to these questions.
 * Why is it more valuable to talk about today's upcoming work than yesterday's accomplishments?
 
 ### Agile
-* Why should we not push code when the build is red?
+* Should we not push code when the build is red?
 * What is continuous integration, and why do we do it?
 * What is the value of retro? Why is it weekly?
 * How do tests improve our confidence in our code's correctness?
