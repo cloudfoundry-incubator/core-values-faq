@@ -7,7 +7,7 @@ Keep in mind, we have intentionally omitted the answers to these questions.
 * Why do we pair? Why is it valuable to the team? Why is it valuable to me?
 * Why do we rotate so frequently?
 * How do I leave feedback for my pair?
-* What kind of feedback can and should I leave for my pair? What does "ASK" mean?
+* What kind of feedback can and should I leave for my pair? What does "TASK" mean?
 * Should newer team members only pair with experienced team members? Why?
 * When should I drive? When should I navigate?
 * What should I do if my pair is driving too much? Not enough?
