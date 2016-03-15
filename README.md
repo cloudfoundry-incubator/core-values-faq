@@ -21,6 +21,7 @@ Keep in mind, we have intentionally omitted the answers to these questions.
 * How well should I understand a story before I'm ready to point?
 * Everyone else seems to understand the story. Should I assume my pair will fill me in when we pick it up?
 * How do we decide how many points a story is worth?
+* Why don't we point bugs and chores?
 
 ### Standup
 * Why do we have standup?
