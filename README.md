@@ -42,10 +42,10 @@ Keep in mind, we have intentionally omitted the answers to these questions.
 * What is an MVP? Why do we focus on the "M"?
 
 ### Product Management
+* How is product direction determined?
+* How are stories prioritized?
+* What is the role of user research in product?
 * What does velocity measure?
 * How does your product manager use velocity?
 * How does velocity compare between teams?
 * What does volatility measure?
-* How is product direction determined?
-* How are stories prioritized?
-* What is the role of user research in product?
